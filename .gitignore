@@ -1,0 +1,19 @@
+venv/
+.venv/
+.env/
+
+# Python
+__pycache__/
+
+data/
+models/*.keras
+models/*.pt
+runs/
+yolo/
+yolov8n.pt
+
+data/
+
+# IDE
+.vscode/
+.idea/

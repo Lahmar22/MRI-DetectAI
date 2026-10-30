@@ -1,0 +1,13 @@
+path: yolo
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+
+names:
+  0: Glioma
+  1: Meningioma
+  2: Pituitary
+  3: No_Tumor
